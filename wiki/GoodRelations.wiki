@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Short introduction into the GoodRelations ontology and its idea.
 #labels Phase-Implementation,Phase-Support,Phase-Design
 
 = Introduction =
