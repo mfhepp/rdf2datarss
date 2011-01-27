@@ -1,0 +1,89 @@
+input {
+	/*font-size: 		0.9em;
+	border: 	 	1px solid #bbb;
+	padding: 		0.2em 0.2em;
+	font-variant: 	normal;*/
+}
+
+input#uri, input#file, input#uploaded_file {
+	width: 750px;
+	margin-top: 0.3em;
+	margin-right: 0pt;
+	margin-bottom: 0pt;
+	margin-left: 1em;
+}
+
+img {
+	border: 0;
+}
+
+p.submit_button input {
+	overflow: visible;
+	width: auto;
+	background: #ff6500; /*#f18e00;*/
+	color: #fff;
+ 	padding: 0.3em 0.4em 0.1em 0.3em;
+	font-size: 1em;
+	width: 10em;
+	text-align: center;
+	border-bottom: 2px solid #444;
+	border-right: 2px solid #444;
+	border-top: 1px solid #aaa;
+	border-left: 1px solid #aaa;
+	cursor: pointer;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+p.submit_button input:active {
+	color: #1f2126;
+	border-bottom: 1px solid #aaa;
+	border-right: 1px solid #aaa;
+	border-top: 2px solid #444;
+	border-left: 2px solid #444;
+}
+
+#footer {
+	/*width: 1000px;*/
+	font-size: 0.7em;
+	/*padding: 0 2em;*/
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	/*width:auto;*/
+	/*margin: 10px;*/
+	color: #7C8395;
+	
+}
+
+.grlogo{
+   float: left;
+   margin: 0px 15px 15px 0px;
+   /*height: 90px;*/
+}
+
+.stilogo{
+   float: left;	
+   margin: 0px 0px 0px 10px;
+}
+
+.eblogo{
+   float: left;	
+   margin: 0px 0px 0px 10px;
+}
+
+.unibwlogo{
+   float: left;	
+   margin: 0px 0px 0px 10px;
+}
+
+.bmvitlogo{
+   float: left;	
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.myontlogo{
+   float: left;	
+   margin: 0px 0px 0px 10px;
+}
